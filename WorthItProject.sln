@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "WorthItProject", "WorthItProject\WorthItProject.sqlproj", "{9C01FB46-4F60-403C-ABB7-395378CFA15D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C01FB46-4F60-403C-ABB7-395378CFA15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C01FB46-4F60-403C-ABB7-395378CFA15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C01FB46-4F60-403C-ABB7-395378CFA15D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9C01FB46-4F60-403C-ABB7-395378CFA15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C01FB46-4F60-403C-ABB7-395378CFA15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C01FB46-4F60-403C-ABB7-395378CFA15D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED946A80-2707-4B8C-9650-231DD2F51C2E}
+	EndGlobalSection
+EndGlobal
